@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56.69 56.69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0e394b;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Renogare-Regular, Renogare;
+        font-size: 36.59px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-1" x="0" y="0" width="56.69" height="56.69" rx="28.35" ry="28.35"/>
+      <text class="cls-2" transform="translate(17.23 42.79)"><tspan x="0" y="0">P</tspan></text>
+    </g>
+  </g>
+</svg>
