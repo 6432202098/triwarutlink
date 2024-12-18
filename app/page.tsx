@@ -58,13 +58,13 @@ const Page = () => {
       {/* Buttons */}
       <div className="space-y-4 w-full max-w-xs mx-auto">
         <a
-          href="https://www.youtube.com/@Ple_Studio1"
+          href="https://triwarut.my.canva.site/ple-triwarut-portfolio"
           target="blank"
           className="flex items-center bg-white text-black py-3 px-4 rounded-full shadow-md transition-all duration-300 hover:shadow-lg hover:scale-105"
         >
           <img
             src="port.svg"
-            alt="YouTube Logo"
+            alt="Port Logo"
             className="w-8 h-8 mr-1"
           />
           <div className="flex-1 text-center">
