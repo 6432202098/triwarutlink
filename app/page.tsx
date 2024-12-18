@@ -37,7 +37,7 @@ const Page = () => {
           className="p-2 bg-white rounded-full hover:bg-blue-600 transition-all"
         >
           <img
-            src="fb.svg"
+            src="FB.svg"
             alt="Facebook"
             className="w-6 h-6"
           />
