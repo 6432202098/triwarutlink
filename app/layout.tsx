@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Geist_Mono } from "next/font/google";
 import { Noto_Sans_Thai } from "next/font/google";
 import "./globals.css";
-import { metadata } from "./metadata";  // Import metadata
+import { metadata } from "app\metadata.ts";
 
 // Font setup
 const notoThai = Noto_Sans_Thai({
@@ -26,7 +26,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
   return (
     <html lang="en">
-      <link rel="icon" href="/favicon.ico" />
+      <head>
+        <link rel="icon" href="/favicon.ico" />
+       </head>
+     
       <body
         className={`${notoThai.variable} ${geistMono.variable} antialiased`}
       >
