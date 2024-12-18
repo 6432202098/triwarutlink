@@ -1,6 +1,5 @@
 "use client";
 
-import { useState } from "react";
 import { Geist_Mono } from "next/font/google";
 import { Noto_Sans_Thai } from "next/font/google";
 import "./globals.css";
