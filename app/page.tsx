@@ -103,7 +103,8 @@ const Page = () => {
           </div>
         </a>
         <a
-          href="#"
+          href="https://vcard.link/card/DsfB.vcf"
+          target="blank"
           className="flex items-center bg-white text-black py-3 px-4 rounded-full shadow-md transition-all duration-300 hover:shadow-lg hover:scale-105"
         >
           <img
