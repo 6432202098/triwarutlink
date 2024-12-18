@@ -15,7 +15,7 @@ const Page = () => {
       {/* Title */}
       <h1 className="text-3xl font-bold mb-1">Ple Triwarut</h1>
       <p className="text-sm text-gray-400 mb-6 text-center">
-        Interested Job Position <br />
+        Interested Job Position<br />
         CFX Artist / Rigging / 3D Generalist.
       </p>
 
